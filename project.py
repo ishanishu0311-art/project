@@ -59,6 +59,7 @@ elif x==3:
 print("-"*100)
 print(" "*100)
 print("~~~~~~~~~~THANK YOU FOR VISITING US~~~~~~~~~")
+print("~"*100)
     
 
 
